@@ -1,0 +1,25 @@
+# environment variables
+.env
+
+# Binaries
+*.exe
+*.dll
+*.out
+*.app
+
+# Vendor directories
+vendor/
+
+# Compiled Object files, Static and Dynamic libs
+*.o
+*.a
+*.so
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Testing
+*.test
+
+# Project-specific output
+/bin/
